@@ -1,0 +1,38 @@
+{
+    "background.windowBackgrounds": [
+        "c:/Users/LUIS MARIO/Videos/fondo nuves.jpeg",
+        "c:/Users/LUIS MARIO/Videos/descarga.jpeg",
+        "c:/Users/LUIS MARIO/Videos/noche alta resolucion.jpeg"
+    ],
+    "background.sidebarBackgrounds": [
+        "c:/Users/LUIS MARIO/Videos/fondo escalera.jpeg"
+    ],
+    "background.panelBackgrounds": [
+        "c:/Users/LUIS MARIO/Videos/consola.jpeg"
+    ],
+    "background.backgroundOpacity": [
+        0.1,
+        0.9,
+        0.1,
+        0.1
+    ],
+    "background.backgroundBlur": [
+        "1",
+        "0",
+        "0",
+        "0"
+    ],
+    "background.backgroundSize": [
+        "Cover",
+        "Cover",
+        "Cover",
+        "Cover"
+    ],
+    "background.backgroundSizeValue": [
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+    ],
+    "background.editorBackgrounds": []
+}
